@@ -1,6 +1,6 @@
-# PrototipoAngular7
+# NEURONE-STORE
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+The purpose of this project is to provide a modern graphical interface for users who wish to create studies and their derived content in order to execute it later in NEURONE.
 
 ## Development server
 
