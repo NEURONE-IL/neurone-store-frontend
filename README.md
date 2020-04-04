@@ -20,6 +20,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Docker
 
+Please to run the next commands you need to install Docker. https://docs.docker.com/install/
 Run `bash build.sh` and `bash run.sh` in root directory to deploy in a docker instance this project.
 
 ## Running unit tests
